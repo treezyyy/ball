@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ball</string>
+    <string name="todo">TODO</string>
+    <string name="text1">0</string>
+    <string name="doublePoint">:</string>
+    <string name="svyat">Святой источник</string>
+    <string name="BonPari">Bon Pari</string>
+    <string name="nulling">ПОНУЛЯМ</string>
+</resources>
