@@ -78,10 +78,11 @@
        android:layout_width="@dimen/rasm_150"
        android:layout_height="@dimen/otst_50"
        android:layout_marginTop="60dp"
+       android:onClick="onClickBtnAddMar"
        android:text="@string/svyat"
        android:textSize="13sp"
-       android:onClick="onClickBtnAddMar"
        app:layout_constraintEnd_toEndOf="@+id/text1"
+       app:layout_constraintHorizontal_bias="0.504"
        app:layout_constraintStart_toStartOf="@+id/text1"
        app:layout_constraintTop_toBottomOf="@+id/text1" />
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rasm_150">150dp</dimen>
+    <dimen name="rasm_25">25dp</dimen>
+    <dimen name="rasm_60">60dp</dimen>
+    <dimen name="size_text">50sp</dimen>
+    <dimen name="help_otstup">25dp</dimen>
+    <dimen name="otst_50">50dp</dimen>
+    <dimen name="ots_50">50dp</dimen>
+    <dimen name="skip_60">60dp</dimen>
+</resources>
